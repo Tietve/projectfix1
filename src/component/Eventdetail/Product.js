@@ -96,6 +96,11 @@ const Products = () => {
                             <span>FAQ</span>
                         </div>
                     </div>
+                    <div className="detail">
+                        <h2>Detail</h2>
+                        <hr />
+                        <div>{data?.attributes?.description}</div>
+                    </div>
                 </>
             ) : (
                 "Loading..."

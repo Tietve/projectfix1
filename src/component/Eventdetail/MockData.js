@@ -5,6 +5,7 @@ export const MockProduct = {
         title: "Stylish T-Shirt",
         price: 29.99,
         desc: "A stylish t-shirt made with high quality fabric.",
+        description: "A fantasic show to see how to JustinBieber cook the show",
         img: {
             data: {
                 attributes: {
